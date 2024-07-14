@@ -1,6 +1,3 @@
-### README.md
-
-````markdown
 # React Storybook Monorepo
 
 이 프로젝트는 React를 사용하는 애플리케이션에서 공통 UI 컴포넌트와 Storybook을 구성하는 방법을 보여줍니다. `pnpm`을 사용하여 workspace를 관리합니다.
