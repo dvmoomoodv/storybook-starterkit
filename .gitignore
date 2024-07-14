@@ -1,0 +1,66 @@
+# Node modules
+node_modules/
+ui/**/node_modules/
+storybook/**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Production
+dist/
+build/
+
+# Storybook build outputs
+storybook-static/
+
+# Testing
+coverage/
+*.lcov
+
+# Miscellaneous
+.DS_Store
+*.pem
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# pnpm specific files
+.pnpm-debug.log
+
+# Temporary files
+.tmp/
+temp/
+tmp/
+
+# IntelliJ IDEA files
+.idea/
+
+# VS Code files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+*storybook.log
